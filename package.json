@@ -1,0 +1,19 @@
+{
+  "name": "admin-api",
+  "version": "1.0.0",
+  "description": "An administrative interface for the VIN and Header API system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryce Kolton",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compress": "^0.99.0",
+    "compression": "^1.7.1",
+    "express": "^4.16.2",
+    "glob": "^7.1.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
